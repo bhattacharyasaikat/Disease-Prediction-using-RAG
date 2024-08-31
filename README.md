@@ -1,6 +1,10 @@
 
 # Disease Prediction using RAG (Retrieval-Augmented Generation)
 
+##To run:
+- pip install --upgrade pip && pip install -r requirements.txt
+- flask -app app run
+
 ## Overview
 This project aims to develop an AI-powered platform to predict diseases based on user symptoms. By utilizing the Retrieval-Augmented Generation (RAG) framework, the system enhances accuracy by combining retrieval and generation methods.
 
