@@ -1,7 +1,7 @@
 
 # Disease Prediction using RAG (Retrieval-Augmented Generation)
 
-##To run:
+## To run:
 - pip install --upgrade pip && pip install -r requirements.txt
 - flask -app app run
 
@@ -16,3 +16,4 @@ This project aims to develop an AI-powered platform to predict diseases based on
 - **LangChain**
 - **Google Gemini Pro**
 - **ChromaDB**
+- **Flask**
